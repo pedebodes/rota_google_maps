@@ -12,10 +12,9 @@
     <script src="js/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
-    <script type="text/javascript"
-            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAN2ht2b71Up4w6vg71HOv8qjoaZWyr1ZE"></script>
+
 <!--    INFORME O A SUA CHAVE DA API  -->
-    <!--<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=ENTER_YOUR_KEY_HERE"></script>-->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=ENTER_YOUR_KEY_HERE"></script>
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
